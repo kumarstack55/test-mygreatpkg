@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="test-mygreatpkg",
-    version="0.0.2",
+    version="0.0.3",
     author="Example Author",
     author_email="kumarstack55@gmail.com",
     description="A small example package",
